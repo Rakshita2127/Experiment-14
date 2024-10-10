@@ -10,6 +10,7 @@ Members of the protected base class and the general public are both accessible t
 promotes class design simplicity and code reuse.
 ### Output:
 <img width="686" alt="image" src="https://github.com/user-attachments/assets/0c2c62cd-032d-44a7-abd8-d01bf64bd394">
+
 ### Conclusion:
 We learned about single inheritance in C++. 
 
